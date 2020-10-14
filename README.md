@@ -1,4 +1,4 @@
-#BookHunter2LibIb
+# BookHunter2LibIb
 This is a notebook to convert data from Book Hunter toLibIb. 
 Here we translate a book collection from Book Hunter to a CSV to import in LibIb. 
 
@@ -53,4 +53,4 @@ Distributed under the MIT License.
 # Contact
 JotaValadouro - jotavaladouro@gmail.com
 
-Project Link: https://github.com/your_username/repo_name
+Project Link: https://github.com/jotavaladouro/BookHunter_2_LibIb/
